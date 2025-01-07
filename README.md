@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj-panchal&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj-panchal" /> </p>
 
-- 🌱 I’m currently learning **Advanced Spring Boot features like Security, AOP, and Microservices architecture**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **neerajpanchal098@gmail.com**
 
