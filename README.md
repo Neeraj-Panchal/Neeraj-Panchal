@@ -13,12 +13,12 @@
 
 ### 🚀 About Me
 
-[cite_start]I am a **Full Stack Developer** [cite: 3, 8] focused on building scalable web applications. [cite_start]I specialize in the **Java/Spring Boot ecosystem** and modern frontend frameworks like **Next.js and React**. [cite: 8, 19]
+I am a **Full Stack Developer** [cite: 3, 8] focused on building scalable web applications. I specialize in the **Java/Spring Boot ecosystem** and modern frontend frameworks like **Next.js and React**. [cite: 8, 19]
 
 - 💻 Currently building: **AI-Powered Resume Builder**.
-- [cite_start]🛠️ Tech Stack: **Java, Spring Boot, React.js, Next.js, and MySQL**. [cite: 18, 19, 20]
-- [cite_start]🎓 Education: B.Tech in CSE from **JC Bose University (YMCA)**. [cite: 45]
-- [cite_start]📫 Reach me: **neerajpanchal098@gmail.com**. [cite: 1]
+- 🛠️ Tech Stack: **Java, Spring Boot, React.js, Next.js, and MySQL**. [cite: 18, 19, 20]
+- 🎓 Education: B.Tech in CSE from **JC Bose University (YMCA)**. [cite: 45]
+- 📫 Reach me: **neerajpanchal098@gmail.com**. [cite: 1]
 - ⚡ Fun Fact: **"I suppose debugging is like being a detective in a crime movie where you are also the villain!"**
 
 ---
@@ -27,19 +27,19 @@
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | [cite_start]Java, JavaScript, Python, C [cite: 18] |
-| **Frontend** | [cite_start]React.js, Next.js, Tailwind CSS, Framer Motion [cite: 19] |
-| **Backend** | [cite_start]Spring Boot, Spring Security, RESTful APIs, JDBC [cite: 19] |
-| **Databases** | [cite_start]MySQL, MongoDB [cite: 20] |
-| **Tools** | [cite_start]Postman, Git, GitHub [cite: 21] |
+| **Languages** | Java, JavaScript, Python, C [cite: 18] |
+| **Frontend** | React.js, Next.js, Tailwind CSS, Framer Motion [cite: 19] |
+| **Backend** | Spring Boot, Spring Security, RESTful APIs, JDBC [cite: 19] |
+| **Databases** | MySQL, MongoDB [cite: 20] |
+| **Tools** | Postman, Git, GitHub [cite: 21] |
 
 ---
 
 ### 🌟 Key Projects
 
-* [cite_start]**MoneyManager** [cite: 34][cite_start]: A secure finance tracking app built with **Spring Boot, JWT, and React**. [cite: 36, 38]
-* [cite_start]**AI Email Reply Generator** [cite: 39][cite_start]: A Chrome extension using **Gemini API and Spring AI** to automate email replies. [cite: 41, 42]
-* [cite_start]**Mission Global Portals** [cite: 29][cite_start]: High-performance admission platforms for international students using **Next.js**. [cite: 30, 32]
+* **MoneyManager** [cite: 34]: A secure finance tracking app built with **Spring Boot, JWT, and React**. [cite: 36, 38]
+* **AI Email Reply Generator** [cite: 39]: A Chrome extension using **Gemini API and Spring AI** to automate email replies. [cite: 41, 42]
+* **Mission Global Portals** [cite: 29]: High-performance admission platforms for international students using **Next.js**. [cite: 30, 32]
 
 ---
 
