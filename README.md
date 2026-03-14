@@ -1,29 +1,64 @@
-![logo](https://github.com/Neeraj-Panchal/Neeraj-Panchal/blob/main/Github%20Banner.png.png)
-<h1 align="center">Hi 👋, I'm Neeraj Panchal</h1>
-<h3 align="center">A dedicated Software Engineer from India</h3>
+<div align="center">
+  <img src="https://github.com/Neeraj-Panchal/Neeraj-Panchal/blob/main/Github%20Banner.png.png" width="100%" alt="Neeraj Panchal Banner" />
+  
+  <h1>Hi 👋, I'm Neeraj Panchal</h1>
+  <h3>Full Stack Developer | Java & Spring Boot Expert</h3>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=neeraj-panchal&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj-panchal" />
+  </p>
+</div>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj-panchal&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj-panchal" /> </p>
+### 🚀 About Me
 
-- 🌱 I’m currently learning **Spring Boot**
+[cite_start]I am a **Full Stack Developer** [cite: 3, 8] focused on building scalable web applications. [cite_start]I specialize in the **Java/Spring Boot ecosystem** and modern frontend frameworks like **Next.js and React**. [cite: 8, 19]
 
-- 📫 How to reach me **neerajpanchal098@gmail.com**
+- 💻 Currently building: **AI-Powered Resume Builder**.
+- [cite_start]🛠️ Tech Stack: **Java, Spring Boot, React.js, Next.js, and MySQL**. [cite: 18, 19, 20]
+- [cite_start]🎓 Education: B.Tech in CSE from **JC Bose University (YMCA)**. [cite: 45]
+- [cite_start]📫 Reach me: **neerajpanchal098@gmail.com**. [cite: 1]
+- ⚡ Fun Fact: **"I suppose debugging is like being a detective in a crime movie where you are also the villain!"**
 
-- ⚡ Fun fact **"I suppose debugging is like being a detective in a crime movie where you are also the villain!"**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Technical Skills
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | [cite_start]Java, JavaScript, Python, C [cite: 18] |
+| **Frontend** | [cite_start]React.js, Next.js, Tailwind CSS, Framer Motion [cite: 19] |
+| **Backend** | [cite_start]Spring Boot, Spring Security, RESTful APIs, JDBC [cite: 19] |
+| **Databases** | [cite_start]MySQL, MongoDB [cite: 20] |
+| **Tools** | [cite_start]Postman, Git, GitHub [cite: 21] |
+
+---
+
+### 🌟 Key Projects
+
+* [cite_start]**MoneyManager** [cite: 34][cite_start]: A secure finance tracking app built with **Spring Boot, JWT, and React**. [cite: 36, 38]
+* [cite_start]**AI Email Reply Generator** [cite: 39][cite_start]: A Chrome extension using **Gemini API and Spring AI** to automate email replies. [cite: 41, 42]
+* [cite_start]**Mission Global Portals** [cite: 29][cite_start]: High-performance admission platforms for international students using **Next.js**. [cite: 30, 32]
+
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neeraj-panchal&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj-panchal&layout=compact&theme=dark" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj-panchal&theme=dark" alt="neeraj-panchal streak" />
+</div>
+
+---
+
+### 🤝 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/neeraj panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neeraj panchal" height="30" width="40" /></a>
-<a href="https://fb.com/neeraj panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="neeraj panchal" height="30" width="40" /></a>
-<a href="https://instagram.com/neerajpanchal753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neerajpanchal753" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nejaj-panchal-5b6a85263" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/neerajpanchal753" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:neerajpanchal098@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>C  </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> HTML5  </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> CSS3 </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> Java </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> MySQL </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> Spring Boot </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> Firebase </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> Git<br> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neeraj-panchal&show_icons=true&locale=en&layout=compact" alt="neeraj-panchal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neeraj-panchal&show_icons=true&locale=en" alt="neeraj-panchal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj-panchal&" alt="neeraj-panchal" /></p>
